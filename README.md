@@ -21,7 +21,13 @@ _____________|','   ///_/-------------/   |
               |===========,'
 
 ```
-项目命名习惯:
+### 项目命名习惯
 > * 组件名-----星X
 > * 框架名-----动物名
 > * 平台名-----历史典故名
+
+### 电子书
+
+> * [Butterfly 用户手册](https://meetbill.gitbook.io/butterfly-user-doc)
+> * [Butterfly 开发手册](https://meetbill.gitbook.io/butterfly-project-doc)
+> * [运维实践指南](https://billwang139967.gitbooks.io/op_practice_book/content/)
