@@ -31,3 +31,5 @@ _____________|','   ///_/-------------/   |
 > * [Butterfly 用户手册](https://meetbill.gitbook.io/butterfly-user-doc)
 > * [Butterfly 开发手册](https://meetbill.gitbook.io/butterfly-project-doc)
 > * [运维实践指南](https://billwang139967.gitbooks.io/op_practice_book/content/)
+
+![Snake animation](https://raw.githubusercontent.com/meetbill/meetbill/output/github-contribution-grid-snake-dark.svg)
