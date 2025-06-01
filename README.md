@@ -28,8 +28,13 @@ _____________|','   ///_/-------------/   |
 
 ### 电子书
 
-> * [Butterfly 用户手册](https://meetbill.gitbook.io/butterfly-user-doc)
-> * [Butterfly 开发手册](https://meetbill.gitbook.io/butterfly-project-doc)
-> * [运维实践指南](https://billwang139967.gitbooks.io/op_practice_book/content/)
+> * Butterfly web 框架
+>   * [Butterfly 用户手册](https://meetbill.gitbook.io/butterfly-user-doc)
+>   * [Butterfly 开发手册](https://meetbill.gitbook.io/butterfly-project-doc)
+> * 容器化
+>   * [Docker](https://meetbill.gitbook.io/docker-book)
+>   * [K8s](https://meetbill.gitbook.io/k8s-book)
+> * 其他 
+>   * [运维实践指南](https://billwang139967.gitbooks.io/op_practice_book/content/)
 
 ![Snake animation](https://raw.githubusercontent.com/meetbill/meetbill/output/github-contribution-grid-snake.svg)
